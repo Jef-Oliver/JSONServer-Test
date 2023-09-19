@@ -1,19 +1,16 @@
 {
-  "agenda" : [
-    { "id" : 1 , "nome" : "Ana" , "telefone" : "1111-1111"  },
-    { "id" : 2 , "nome" : "Helder" , "telefone" : "2222-2222"  },
-    { "id" : 3 , "nome" : "Fagno" , "telefone" : "3333-3333"  }
+  "deuses" : [
+    { "id" : 1 , "nome" : "Zeus" },
+    { "id" : 2 , "nome" : "Hera"},
+    { "id" : 3 , "nome" : "Poseidon"},
+    { "id" : 4 , "nome" : "Atena"},
+    { "id" : 5 , "nome" : "Ares"}
   ],
-  "adicionais" : [
-    { "id" : 1 , "email" : "ana@ifto.edu.br"},
-    { "id" : 2 , "email" : "helder@ifto.edu.br"},
-    { "id" : 3 , "email" : "fagno@ifto.edu.br"}
-  ],
-  "estudantes": [
-    {"nome":"Ana","ano_nascimento": 1984,"notas":{"n1": 7,"n2": 5,"n3": 4}},  
-    {"nome":"Jeferson","ano_nascimento": 2001,"notas":{"n1": 6,"n2": 6,"n3": 6}},
-    {"nome":"Matheus","ano_nascimento": 2003,"notas":{"n1": 7,"n2": 6,"n3": 7}},
-    {"nome":"Ricardo","ano_nascimento": 2000,"notas":{"n1": 8,"n2": 8,"n3": 5}},
-    {"nome":"Alessandra","ano_nascimento": 2002,"notas":{"n1": 4,"n2": 4,"n3": 9}}
+  "constelacoes" : [
+    { "id" : 1 , "nome" : "Andrômeda"},
+    { "id" : 2 , "nome" : "Cruzeiro do Sul"},
+    { "id" : 3 , "nome" : "Ursa Maior"},
+    { "id" : 4 , "nome" : "Ursa Menor"},
+    { "id" : 5 , "nome" : "Pégaso"}
   ]
 }
