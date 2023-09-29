@@ -1,16 +1,51 @@
 {
-  "deuses" : [
-    { "id" : 1 , "nome" : "Zeus" },
-    { "id" : 2 , "nome" : "Hera"},
-    { "id" : 3 , "nome" : "Poseidon"},
-    { "id" : 4 , "nome" : "Atena"},
-    { "id" : 5 , "nome" : "Ares"}
+  "deuses": [
+    {
+      "id": 1,
+      "nome": "Zeus"
+    },
+    {
+      "id": 2,
+      "nome": "Hera"
+    },
+    {
+      "id": 3,
+      "nome": "Poseidon"
+    },
+    {
+      "id": 4,
+      "nome": "Atena"
+    },
+    {
+      "id": 5,
+      "nome": "Ares"
+    }
   ],
-  "constelacoes" : [
-    { "id" : 1 , "nome" : "Andrômeda"},
-    { "id" : 2 , "nome" : "Cruzeiro do Sul"},
-    { "id" : 3 , "nome" : "Ursa Maior"},
-    { "id" : 4 , "nome" : "Ursa Menor"},
-    { "id" : 5 , "nome" : "Pégaso"}
+  "constelacoes": [
+    {
+      "id": 1,
+      "nome": "Andrômeda",
+	  "valor": 11
+    },
+    {
+      "id": 2,
+      "nome": "Cruzeiro do Sul",
+	  "valor": 5
+    },
+    {
+      "id": 3,
+      "nome": "Ursa Maior",
+	  "valor": 7
+    },
+    {
+      "id": 4,
+      "nome": "Ursa Menor",
+	  "valor": 9
+    },
+    {
+      "id": 5,
+      "nome": "Pégasus",
+	  "valor": 4
+    }
   ]
 }
